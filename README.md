@@ -20,7 +20,45 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini) <br>
+![pertemuan](poto/pertemuan5.png) <br>
+saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
+Berikut *source code* nya : <br>
 
+``` python
+
+print("=========================================")
+print("= NAMA    : Oktovan Agung Shailendra     ")
+print("= NIM     : 312010131                    ")
+print("= KELAS   : TI.20 A.1                    ")
+print("=========================================")
+
+
+print("Please enter your full name : Oktovan Agung Shailendra")
+fullname=input()
+print("Please enter nickname : Oktovan")
+nickname=input()
+print("Please enter your NiM : 312010131")
+npm=input()
+print("Please enter place of birth : BEKASI")
+pob=input()
+print("Please enter date of birth : 22")
+date=input()
+print("Please enter your month of birth : Oktober")
+month=input()
+print("Please enter year of birth : 2002")
+year=input()
+print("Please enter your phone number : 08995251170")
+phone=input()
+print("Please enter your address : Kp. Pule")
+address=input()
+
+dob=input("2020-year")
+
+print("\n\n Assalamu'alaikum. ")
+print("f\n Let me introduce my self, my name is {Oktovan Agung Shailendra}, but you can call me {Oktovan}, my NPM {312010131}, I was born in {BEKASI} and iam {18} years old, I am very glad if you want to invite my house in {Kp. Pule}, So don't forget to call me before with the number {08995251170}, \n\n Thanks you very much ")
+
+
+```
 # **Pertemuan 6 - Lab 1**
 
 Pada bagian ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari oprator aritmatika menggunakan Bahasa Pemrograman Python. Berikut source code yang di berikan oleh Dosen : <br>
@@ -130,7 +168,7 @@ w, x, y, z = 19, 15, 20, 15
 <hr>
 <br>
 
-## Pertemuan 6 - Lab 1 - 2
+## Pertemuan 6 - Lab 1 dan 2
 
 * String Format<br>
 String formatting atau string meemungkinkan kita menyuntikan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
