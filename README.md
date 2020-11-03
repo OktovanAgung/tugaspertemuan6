@@ -14,21 +14,20 @@
 
 Pada bagian ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari oprator aritmatika menggunakan Bahasa Pemrograman Python. Berikut source code yang di berikan oleh Dosen : <br>
 
-`
-#penggunaan end
-print('A', end='')<br>
-print('B', end='')<br>
-print('C', end='')<br>
-print()<br>
-print('X')<br>
-print('Y')<br>
-print('z')<br>
+```#penggunaan end
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
 
 #penggunaan separator
 
-`w, x, y, z = 10, 15, 20, 25` <br>
-`print(w, x, y, z)` <br>
-`print(w, x, y, z, sep=',')` <br>
-`print(w, x, y, z, sep='')` <br>
-`print(w, x, y, z, sep=':')` <br>
-`print(w, x, y, z, sep='.....')`` <br>
+`w, x, y, z = 10, 15, 20, 25`
+`print(w, x, y, z)`
+`print(w, x, y, z, sep=',')`
+`print(w, x, y, z, sep='')`
+`print(w, x, y, z, sep=':')`
+`print(w, x, y, z, sep='.....')`
